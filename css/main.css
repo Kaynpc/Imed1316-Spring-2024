@@ -27,3 +27,38 @@ h2 {
     font-family: "Rock Salt", cursive;
     color: var(--dominantColor) !important;
 }
+
+.material-symbols-outlined,
+.material-symbols-outlined a {
+    font-size: 60px;
+    color: var(--dominantColor) !important;
+    position: relative;
+    top: 0px;
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: var(--secondaryColor) !important;
+}
+
+.nav-link {
+    font-size: 20px !important;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+.footer-row {
+    background-color: var(--dominantColor) !important;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.footer-row a {
+    color: antiquewhite;
+    font-weight: bold;
+    text-decoration: wavy;
+    text-transform: uppercase;
+}
