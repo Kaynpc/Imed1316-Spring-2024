@@ -15,10 +15,15 @@ h2 {
     height: auto;
     font-weight: bold;
     color: var(--dominantColor) !important;
-    ;
     font-size: 55px;
     padding-top: 40px;
     padding-bottom: 0px;
     background-color: floralwhite;
 
+}
+
+#top-logo-small {
+    font-size: 29;
+    font-family: "Rock Salt", cursive;
+    color: var(--dominantColor) !important;
 }
